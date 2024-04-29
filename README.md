@@ -50,8 +50,3 @@ The Movie Recommendation System is a web application that leverages the TMDb API
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributors
-
-- [Your Name](https://github.com/your-username): Project Lead, Developer
-- [Contributor Name](https://github.com/contributor-username): Contributor, Tester
-
