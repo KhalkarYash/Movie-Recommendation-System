@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-https://khalkaryash.github.io/Movie-Recommendation-System/
+Check it out here[https://khalkaryash.github.io/Movie-Recommendation-System/]
 
 ## Overview
 
